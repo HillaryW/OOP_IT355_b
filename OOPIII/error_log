@@ -1,0 +1,40 @@
+[10-Jul-2016 23:36:10 America/Chicago] PHP Catchable fatal error:  Object of class Address could not be converted to string in /home/hillary/public_html/IT355/OOPII/demo.php on line 37
+[10-Jul-2016 23:45:15 America/Chicago] PHP Notice:  Undefined property via __get: valid_address_types in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 84
+[11-Jul-2016 00:02:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'proctected' (T_STRING), expecting function (T_FUNCTION) in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 175
+[11-Jul-2016 00:03:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'proctected' (T_STRING), expecting function (T_FUNCTION) in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 175
+[11-Jul-2016 00:03:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'proctected' (T_STRING), expecting function (T_FUNCTION) in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 175
+[11-Jul-2016 00:04:01 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): _address_type_id in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 114
+[11-Jul-2016 00:05:43 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): _address_type_id in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 114
+[11-Jul-2016 00:05:47 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): _address_type_id in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 114
+[11-Jul-2016 00:07:36 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): _address_type_id in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 114
+[11-Jul-2016 00:07:37 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): _address_type_id in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 114
+[11-Jul-2016 00:12:18 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): _address_type_id in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 114
+[11-Jul-2016 00:12:20 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): _address_type_id in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 114
+[11-Jul-2016 00:12:44 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): _address_type_id in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 115
+[11-Jul-2016 00:14:12 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): _address_type_id in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 115
+[11-Jul-2016 00:14:14 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): _address_type_id in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 115
+[11-Jul-2016 00:14:54 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): _address_type_id in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 115
+[11-Jul-2016 00:14:55 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): _address_type_id in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 115
+[11-Jul-2016 00:39:44 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 149
+[11-Jul-2016 00:40:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 183
+[11-Jul-2016 00:45:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 183
+[11-Jul-2016 00:45:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 183
+[11-Jul-2016 00:50:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 183
+[11-Jul-2016 00:51:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 183
+[11-Jul-2016 00:55:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 183
+[11-Jul-2016 00:57:03 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 149
+[11-Jul-2016 00:58:22 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 149
+[11-Jul-2016 00:58:23 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/hillary/public_html/IT355/OOPII/class.Address.inc on line 149
+[17-Jul-2016 23:01:57 America/Chicago] PHP Warning:  include(class.AddressResidencez.inc): failed to open stream: No such file or directory in /home/hillary/public_html/IT355/OOP/demo.php on line 8
+[17-Jul-2016 23:01:57 America/Chicago] PHP Warning:  include(class.AddressResidencez.inc): failed to open stream: No such file or directory in /home/hillary/public_html/IT355/OOP/demo.php on line 8
+[17-Jul-2016 23:01:57 America/Chicago] PHP Warning:  include(): Failed opening 'class.AddressResidencez.inc' for inclusion (include_path='.:/opt/php54/lib/php') in /home/hillary/public_html/IT355/OOP/demo.php on line 8
+[17-Jul-2016 23:01:57 America/Chicago] PHP Fatal error:  Class 'AddressResidencez' not found in /home/hillary/public_html/IT355/OOP/demo.php on line 12
+[17-Jul-2016 23:02:39 America/Chicago] PHP Warning:  include(class.AddressResidencez.inc): failed to open stream: No such file or directory in /home/hillary/public_html/IT355/OOP/demo.php on line 8
+[17-Jul-2016 23:02:39 America/Chicago] PHP Warning:  include(class.AddressResidencez.inc): failed to open stream: No such file or directory in /home/hillary/public_html/IT355/OOP/demo.php on line 8
+[17-Jul-2016 23:02:39 America/Chicago] PHP Warning:  include(): Failed opening 'class.AddressResidencez.inc' for inclusion (include_path='.:/opt/php54/lib/php') in /home/hillary/public_html/IT355/OOP/demo.php on line 8
+[17-Jul-2016 23:02:39 America/Chicago] PHP Fatal error:  Class 'AddressResidencez' not found in /home/hillary/public_html/IT355/OOP/demo.php on line 12
+[17-Jul-2016 23:07:09 America/Chicago] PHP Fatal error:  Cannot instantiate abstract class Address in /home/hillary/public_html/IT355/OOP/demo.php on line 24
+[17-Jul-2016 23:11:59 America/Chicago] PHP Fatal error:  Class AddressResidence contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (Address::_init) in /home/hillary/public_html/IT355/OOP/class.AddressResidence.inc on line 6
+[17-Jul-2016 23:15:20 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/hillary/public_html/IT355/OOP/class.AddressResidence.inc on line 12
+[17-Jul-2016 23:17:22 America/Chicago] PHP Notice:  Undefined or unallowed property via __set(): address_type_id in /home/hillary/public_html/IT355/OOP/class.Address.inc on line 111
+[17-Jul-2016 23:30:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'funtion' (T_STRING), expecting variable (T_VARIABLE) in /home/hillary/public_html/IT355/OOP/class.Address.inc on line 204
